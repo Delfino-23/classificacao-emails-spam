@@ -1,0 +1,29 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações e segredos
+.env
+.env.*
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cache de ferramentas
+.pytest_cache/
+.mypy_cache/
