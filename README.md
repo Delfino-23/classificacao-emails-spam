@@ -64,7 +64,10 @@ projeto-spam/
 │   │   ├── matriz_confusao.csv
 │   │   ├── matriz_confusao.png
 │   │   └── metricas.csv
-│   │
+│   │ 
+│   ├── graficos/
+│   │   ├── comparacao_desempenho_modelos.png
+│   │   └── resultados_detalhados_modelos.png
 │   └── comparacao_modelos.csv
 │
 ├── .gitignore
